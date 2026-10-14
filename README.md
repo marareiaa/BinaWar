@@ -1,6 +1,6 @@
-# BinWar
+# BinaWar
 
-O **BinWar** é um jogo educativo desenvolvido em C++ que transforma o aprendizado do sistema de numeração binário em uma experiência interativa e competitiva. Por meio de desafios de conversão de números decimais para binários, os jogadores colocam seus conhecimentos à prova enquanto desenvolvem o raciocínio lógico e a agilidade na resolução de problemas.
+O **BinaWar** é um jogo educativo desenvolvido em C++ que transforma o aprendizado do sistema de numeração binário em uma experiência interativa e competitiva. Por meio de desafios de conversão de números decimais para binários, os jogadores colocam seus conhecimentos à prova enquanto desenvolvem o raciocínio lógico e a agilidade na resolução de problemas.
 
 A dinâmica é baseada em turnos e combina aprendizado e competição, incentivando a compreensão da representação binária de forma prática e divertida.
 
